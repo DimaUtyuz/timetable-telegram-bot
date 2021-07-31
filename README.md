@@ -19,12 +19,12 @@
 Для упрощения в использовании добавлена клавиатура внизу экрана с самыми частами командами.
 Каждое утро бот присылает сообщение с мероприятиями на 2 ближайших дня.
 
-![Команды](https://github.com/DimaUtyuz/timetable-telegram-bot/blob/main/screenshots/1.jpg | width=200)
-![Установка таймера](https://github.com/DimaUtyuz/timetable-telegram-bot/blob/main/screenshots/2.jpg)
-![Создание заметки](https://github.com/DimaUtyuz/timetable-telegram-bot/blob/main/screenshots/3.jpg)
-![Создание события](https://github.com/DimaUtyuz/timetable-telegram-bot/blob/main/screenshots/6.jpg)
-![Выбор частоты события](https://github.com/DimaUtyuz/timetable-telegram-bot/blob/main/screenshots/4.jpg)
-![Выбор времени напоминания](https://github.com/DimaUtyuz/timetable-telegram-bot/blob/main/screenshots/5.jpg)
+![Команды](/screenshots/1.png?raw=true)
+![Установка таймера](/screenshots/2.png?raw=true)
+![Создание заметки](/screenshots/3.png?raw=true)
+![Создание события](/screenshots/6.png?raw=true)
+![Выбор частоты события](/screenshots/4.png?raw=true)
+![Выбор времени напоминания](/screenshots/5.png?raw=true)
 
 ## Заметки
 
